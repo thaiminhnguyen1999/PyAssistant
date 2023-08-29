@@ -1,0 +1,4 @@
+datetime==3.8.0
+pyttsx3==2.90
+SpeechRecognition==3.9.9
+freegames==2.5.3
